@@ -1,0 +1,51 @@
+.container {
+    background-color: rgb(40, 189, 203);
+    color: black;
+}
+
+*#prueba {
+    background-color: rgba(5, 244, 5, 0.184);
+    color: green;
+  }
+  *[id="prueba"] {
+      background-color: #fff;
+    color: purple;
+  }
+  body h1 {
+    color: green;
+  }
+
+  section h1 {
+    color: rgb(246, 245, 246);
+  }
+
+  html h1 {
+    color: purple;
+  }
+
+  h2{
+      color: aqua;
+  }
+  .itachi{
+    float: left;
+  }
+  .shaka{
+    float: right;
+  }
+  .caballeros ,.hades{
+    float:right;
+  }
+
+  #content p{
+    background-color: rgb(13, 12, 12);
+    color: rgb(0, 200, 255);
+  }
+  .feactured{
+    background-color: white;
+    color: yellow;
+  }
+
+   #content .feactured {
+    background: rgb(243, 2, 2);
+    color: rgb(252, 253, 250);
+  }
